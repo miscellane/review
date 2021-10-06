@@ -16,6 +16,7 @@ Hence
 ```bash
     conda install -c anaconda python==3.7.11    
     conda install -c anaconda pywin32 jupyterlab nodejs
+    conda install -c anaconda numpy pandas
     
     # Update jupyter lab
     conda install -c anaconda jupyterlab==3.1.7
@@ -38,6 +39,15 @@ whereby filter.txt does not include `pywin32` & `nodejs`.  And, w.r.t. conventio
 ```bash
     pylint --generate-rcfile > .pylintrc
 ```
+
+<br>
+<br>
+
+### Notebooks
+
+* [jupyterCheatSheet.ipynb](https://colab.research.google.com/github/miscellane/review/blob/develop/notebooks/jupyterCheatSheet.ipynb)
+* [operations.ipynb](https://colab.research.google.com/github/miscellane/review/blob/develop/notebooks/operations.ipynb)
+
 
 <br>
 <br>
