@@ -1,6 +1,8 @@
 jupyterlab
 numpy
 pandas
+matplotlib
+seaborn
 pytest
 coverage
 pylint
