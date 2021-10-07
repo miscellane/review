@@ -17,6 +17,7 @@ Hence
     conda install -c anaconda python==3.7.11    
     conda install -c anaconda pywin32 jupyterlab nodejs
     conda install -c anaconda numpy pandas
+    conda install -c anaconda matplotlib seaborn
     
     # Update jupyter lab
     conda install -c anaconda jupyterlab==3.1.7
@@ -57,6 +58,7 @@ Originals:
 Additionally:
 * [operations.ipynb](https://colab.research.google.com/github/miscellane/review/blob/develop/notebooks/operations.ipynb)
 * [dice.ipynb](https://colab.research.google.com/github/miscellane/review/blob/develop/notebooks/dice.ipynb)
+* [graphs.ipynb](https://colab.research.google.com/github/miscellane/review/blob/develop/notebooks/graphs.ipynb)
 
 
 <br>
