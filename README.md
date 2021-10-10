@@ -18,6 +18,7 @@ Hence
     conda install -c anaconda pywin32 jupyterlab nodejs
     conda install -c anaconda numpy pandas
     conda install -c anaconda matplotlib seaborn
+    conda install -c anaconda scipy==1.7.1
     
     # Update jupyter lab
     conda install -c anaconda jupyterlab==3.1.7
