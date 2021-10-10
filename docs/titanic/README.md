@@ -23,8 +23,8 @@ have been affected by one or more of the detailed features, and perhaps by extra
 
 ### Analysis
 
-The table summarises survival measures by class.  The table hints at linear relationship between survival rates & class.
-
+The table summarises survival measures by class.  The table hints at a linear relationship between survival rates & class.
+<br>
 <table style="border: 0px solid black; font-size: 10px; margin-left:auto; margin-right:auto;">
     <tr><th>Passenger Class</th><th>1</th><th>2</th><th>3</th></tr>
     <tr><td colspan="4">Survived</td></tr>
@@ -41,7 +41,7 @@ The table summarises survival measures by class.  The table hints at linear rela
 
 The rates graph highlights the aforementioned linear relationship between survival rates & passenger class, which begs the 
 question &rarr; does a real/significant dependency exist between survival rates & passenger class?
-
+<br>
 <table style="width: 55%; margin-left: 100px; margin-left:auto; margin-right:auto;">
     <colgroup>
         <col span="1" style="width: 40%;">
@@ -77,7 +77,7 @@ because its likelihood seems implausible.
 
 Approximately 63.0% of first class passengers survived, whereas 47.3% & 24.2% of second & third class passengers, 
 respectively, survived.  This led to the question, is there a statistically significant dependence between survival & 
-passenger class?  The <i>p<sub>value</sub></i> of the &Chi;<sup>2</sup> Test suggests rejecting 
+passenger class?  The <i>p<sub>value</sub></i> of the &Chi;<sup>2</sup> Test suggested rejecting 
 the *survival rates & class* independence hypothesis.
 
 The aforementioned contemporaneous investigations indicated that the evacuation policy prioritised class, and then 
@@ -87,7 +87,7 @@ survival rates might have been affected by each passenger's onboard lodging loca
 dictates a passenger's onboard lodging location?  It is quite possible that class prioritisation, w.r.t. evacuation, did 
 not occur, but instead passenger ticket class dictated onboard location, which in turn affected survival chances. 
 
-Further disaggregation by children/woman/man (addendum) does not illustrate a neat association between survival rate & 
+Further disaggregation by children/woman/man (ref: [addendum](#addendum)) does not illustrate a neat association between survival rate & 
 evacuation policy steps, i.e.,
 
 > passenger class &rarr; females & children &rarr; males
@@ -100,8 +100,8 @@ understandings of the period's prevailing rules & customs, will shed more light 
 * Unfortunately the dataset does not include the onboard lodging location of each passenger.
 
 **Assumptions:**
-By conducting a &Chi;<sup>2</sup> Test, an implicit assumption is that the dataset consists of independent instances/observations, i.e., the value 
-of an observation in the dataset does not affect the value of another observation.
+By conducting a &Chi;<sup>2</sup> Test, an implicit assumption is that the dataset consists of independent instances/observations, i.e., 
+the value of an observation in the dataset does not affect the value of another observation.
 
 <br>
 <br>
