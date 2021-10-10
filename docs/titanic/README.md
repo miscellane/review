@@ -23,7 +23,7 @@ have been affected by one or more of the detailed features, and perhaps by extra
 
 The table summarises survival measures by class.  The table hints at linear relationship between survival rates & class.
 
-<table style="border: 0px solid black; font-size: 10px; margin-left:100px">
+<table style="border: 0px solid black; font-size: 10px; margin-left:auto; margin-right:auto;">
     <tr><th>Passenger Class</th><th>1</th><th>2</th><th>3</th></tr>
     <tr><td colspan="4">Survived</td></tr>
     <tr><td>0</td><td>80</td><td>97</td><td>372</td></tr>
@@ -40,7 +40,7 @@ The table summarises survival measures by class.  The table hints at linear rela
 The rates graph highlights the aforementioned linear relationship between survival rates & passenger class, which begs the 
 question &rarr; does a real/significant dependency exist between survival rates & passenger class?
 
-<table style="width: 55%; margin-left: 100px;">
+<table style="width: 55%; margin-left: 100px; margin-left:auto; margin-right:auto;">
     <colgroup>
         <col span="1" style="width: 40%;">
         <col span="1" style="width: 40%;">
