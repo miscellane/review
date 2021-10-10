@@ -108,8 +108,17 @@ the value of an observation in the dataset does not affect the value of another 
 
 ### Addendum
 
-<img src="../../notebooks/titanic/by_desc_class.png" style="100%">
+<img src="../../notebooks/titanic/by_desc_class_rates.png" style="100%">
 
 <br>
 
-<img src="../../notebooks/titanic/by_desc_class_rates.png" style="100%">
+<img src="../../notebooks/titanic/by_desc_class.png" style="100%">
+
+<br>
+<br>
+<br>
+<br>
+
+
+
+
