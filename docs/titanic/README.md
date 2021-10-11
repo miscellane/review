@@ -4,6 +4,7 @@
   * [Graphs](#graphs)
   * [Statistical Analysis](#statistical-analysis)
 * [Discussion](#discussion)
+* Notebook: <a href="https://colab.research.google.com/github/miscellane/review/blob/develop/notebooks/titanic.ipynb" target="_blank">titanic.ipynb</a>  
 * [Addendum](#addendum)
 
 <br>
@@ -102,6 +103,14 @@ understandings of the period's prevailing rules & customs, will shed more light 
 **Assumptions:**
 By conducting a &Chi;<sup>2</sup> Test, an implicit assumption is that the dataset consists of independent instances/observations, i.e., 
 the value of an observation in the dataset does not affect the value of another observation.
+
+<br>
+<br>
+
+### Notebook
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miscellane/review/blob/develop/notebooks/titanic.ipynb)
+
 
 <br>
 <br>
