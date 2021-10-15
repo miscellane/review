@@ -7,11 +7,16 @@
   Legacy Approach<br>
   ```python
   import numpy as np
-  myrolls = np.random.randint(low=1, high=7, size=60)
+  np.random.randint(low=1, high=7, size=60)
   ```
-  <br>
-  is now a legacy approach.  The latest numpy approach for generating random numbers, including random integers, is
-  
+  is now a legacy approach. The latest numpy approach for generating random numbers, including random integers, is
+  ```python  
+  import numpy as np
+  SEED = 5
+  rng = np.random.default_rng(seed=SEED)
+  ```
+  Consequently,<br>
+  `rng.integers(low=1, high=7, size=60)`
     
 
 * 2.5 <br>
