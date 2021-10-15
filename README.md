@@ -5,7 +5,12 @@
 
 * 2.11 Practice Creating a Plot<br>
   [Example (code & graph)](https://colab.research.google.com/github/miscellane/review/blob/develop/notebooks/graphs.ipynb#scrollTo=Practice)<br>
-  [Matplotlib xkcd](https://matplotlib.org/stable/gallery/showcase/xkcd.html#sphx-glr-gallery-showcase-xkcd-py)
+  Of Interest: [Matplotlib xkcd](https://matplotlib.org/stable/gallery/showcase/xkcd.html#sphx-glr-gallery-showcase-xkcd-py)
+  
+* 2.7 BODMAS<br>
+  3315 * 2 / 3 / 5 * 7 * 11 / 13 &rarr; 2618.0<br>
+  Of Interest: An online python shell for brief exercises: https://www.python.org/shell/
+  
 
 
 
