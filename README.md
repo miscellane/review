@@ -8,7 +8,8 @@
   ```python
   import numpy as np
   myrolls = np.random.randint(low=1, high=7, size=60)
-  ```<br>
+  ```
+  <br>
   is now a legacy approach.  The latest numpy approach for generating random numbers, including random integers, is
   
     
