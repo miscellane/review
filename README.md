@@ -1,3 +1,15 @@
+
+
+### Comments
+
+* 2.11 Practice Creating a Plot<br>
+  [Example (code & graph)](https://colab.research.google.com/github/miscellane/review/blob/develop/notebooks/graphs.ipynb#scrollTo=Practice)
+
+
+
+
+
+<br>
 <br>
 
 ### Development Notes
