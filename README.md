@@ -1,9 +1,11 @@
 
+<br>
 
-### Comments
+**Future Learn Comments**
 
 * 2.11 Practice Creating a Plot<br>
-  [Example (code & graph)](https://colab.research.google.com/github/miscellane/review/blob/develop/notebooks/graphs.ipynb#scrollTo=Practice)
+  [Example (code & graph)](https://colab.research.google.com/github/miscellane/review/blob/develop/notebooks/graphs.ipynb#scrollTo=Practice)<br>
+  [Matplotlib xkcd](https://matplotlib.org/stable/gallery/showcase/xkcd.html#sphx-glr-gallery-showcase-xkcd-py)
 
 
 
