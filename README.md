@@ -5,12 +5,12 @@
 
 * **1.19 Variable operations**<br>
   Modulus: x % y = z, x &ge; 0<br>
-   &bull; if x &ge; y, z is the remainder after x is divided by y<br>
-   &bull; if x < y, z = x
+  &ensp; &bull; if x &ge; y, z is the remainder after x is divided by y<br>
+  &ensp; &bull; if x < y, z = x
   
   Floor Division: x // y = z<br>
-   &bull; if x &ge; y, (z * y) + r = x & r < z<br>
-   &bull; if x < y, z = 0  
+  &ensp; &bull; if x &ge; y, (z * y) + r = x & r < z<br>
+  &ensp; &bull; if x < y, z = 0  
 
 * **2.4 What operations can you do?**<br>
   **Legacy Approach**<br>
