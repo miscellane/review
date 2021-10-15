@@ -3,8 +3,11 @@
 
 **Future Learn Comments**
 
+* 2.5 <br>
+  [The Dice Experiment](https://colab.research.google.com/github/miscellane/review/blob/develop/notebooks/dice.ipynb)
+
 * 2.11 Practice Creating a Plot<br>
-  [Example (code & graph)](https://colab.research.google.com/github/miscellane/review/blob/develop/notebooks/graphs.ipynb#scrollTo=Practice)<br>
+  [Drawing Graphs](https://colab.research.google.com/github/miscellane/review/blob/develop/notebooks/graphs.ipynb#scrollTo=Practice)<br>
   Of Interest: [Matplotlib xkcd](https://matplotlib.org/stable/gallery/showcase/xkcd.html#sphx-glr-gallery-showcase-xkcd-py)
   
 * 2.7 BODMAS<br>
