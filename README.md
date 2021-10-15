@@ -7,6 +7,7 @@
   Modulus: x % y = z, x &ge; 0<br>
   * if x &ge; y, z is the remainder after x is divided by y
   * if x < y, z = x
+  
   Floor Division: x // y = z
   * if x &ge; y, (z * y) + r = x & r < z
   * if x < y, z = 0  
