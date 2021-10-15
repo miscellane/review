@@ -3,8 +3,8 @@
 
 **Future Learn Comments**
 
-* 2.4 What operations can you do?<br>
-  Legacy Approach<br>
+* **2.4 What operations can you do?**<br>
+  **Legacy Approach**<br>
   ```python
   import numpy as np
   np.random.randint(low=1, high=7, size=60)
@@ -16,19 +16,23 @@
   rng = np.random.default_rng(seed=SEED)
   ```
   Consequently,<br>
-  `rng.integers(low=1, high=7, size=60)`
-    
+  ```python
+  rng.integers(low=1, high=7, size=60)
+  ```
+  [More](https://colab.research.google.com/github/miscellane/review/blob/develop/notebooks/operations.ipynb#scrollTo=fg-lqYrtNLXa)
 
-* 2.5 <br>
+* **2.5 Practise modifying code**<br>
   [The Dice Experiment](https://colab.research.google.com/github/miscellane/review/blob/develop/notebooks/dice.ipynb)
 
-* 2.11 Practice Creating a Plot<br>
-  [Drawing Graphs](https://colab.research.google.com/github/miscellane/review/blob/develop/notebooks/graphs.ipynb#scrollTo=Practice)<br>
-  Of Interest: [Matplotlib xkcd](https://matplotlib.org/stable/gallery/showcase/xkcd.html#sphx-glr-gallery-showcase-xkcd-py)
-  
-* 2.7 BODMAS<br>
+* **2.7 BODMAS**<br>
   3315 * 2 / 3 / 5 * 7 * 11 / 13 &rarr; 2618.0<br>
   Of Interest: An online python shell for brief exercises: https://www.python.org/shell/
+
+* **2.11 Practice Creating a Plot**<br>
+  [Drawing Graphs](https://colab.research.google.com/github/miscellane/review/blob/develop/notebooks/graphs.ipynb#scrollTo=Practice) <br>
+  Of Interest: [Matplotlib xkcd](https://matplotlib.org/stable/gallery/showcase/xkcd.html#sphx-glr-gallery-showcase-xkcd-py)
+  
+
   
 
 
