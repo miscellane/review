@@ -3,6 +3,16 @@
 
 **Future Learn Comments**
 
+* 2.4 What operations can you do?<br>
+  Legacy Approach<br>
+  ```python
+  import numpy as np
+  myrolls = np.random.randint(low=1, high=7, size=60)
+  ```<br>
+  is now a legacy approach.  The latest numpy approach for generating random numbers, including random integers, is
+  
+    
+
 * 2.5 <br>
   [The Dice Experiment](https://colab.research.google.com/github/miscellane/review/blob/develop/notebooks/dice.ipynb)
 
