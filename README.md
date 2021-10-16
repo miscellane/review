@@ -3,6 +3,17 @@
 
 **Future Learn Comments**
 
+* 1.11 Humans vs Computers<br>
+  **Reference**<br>
+  [Data Harm Records](https://datajusticelab.org/data-harm-record/)<br>
+  [The AI Incident Database](https://incidentdatabase.ai), https://partnershiponai.org/aiincidentdatabase/<br>
+  [Machine Bias: Investigating Algorithmic Injustice](https://www.propublica.org/series/machine-bias/p2)<br>
+  [Ethics and Philosophy of Information](https://www.oii.ox.ac.uk/research/ethics-and-philosophy-of-information/)
+
+* **1.17 Variables**<br>
+  **Reference**<br>
+  [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/#function-and-variable-names)
+
 * **1.19 Variable operations**<br>
   **Operators**<br>
   Modulus: x % y = z, x &ge; 0<br>
