@@ -1,10 +1,15 @@
 
 <br>
 
+[Future Learn](https://www.futurelearn.com/)<br>
+Get ready for a Masters in Data Science and AI
+
+<br>
+
 **Future Learn Comments**
 
-* 1.11 Humans vs Computers<br>
-  **Reference**<br>
+* **1.11 Humans vs Computers**<br>
+  **References**<br>
   [Data Harm Records](https://datajusticelab.org/data-harm-record/)<br>
   [The AI Incident Database](https://incidentdatabase.ai), https://partnershiponai.org/aiincidentdatabase/<br>
   [Machine Bias: Investigating Algorithmic Injustice](https://www.propublica.org/series/machine-bias/p2)<br>
@@ -56,6 +61,9 @@
 * **2.11 Practice Creating a Plot**<br>
   [Drawing Graphs](https://colab.research.google.com/github/miscellane/review/blob/develop/notebooks/graphs.ipynb#scrollTo=Practice) <br>
   Of Interest: [Matplotlib xkcd](https://matplotlib.org/stable/gallery/showcase/xkcd.html#sphx-glr-gallery-showcase-xkcd-py)
+  
+* **2.21 Sharing your report**<br>
+  **Titanic**: https://github.com/miscellane/review/tree/develop/docs/titanic
   
 
   
