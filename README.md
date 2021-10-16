@@ -13,7 +13,7 @@
   &ensp; &bull; if x < y, z = 0
 
   Exponentiation: x ** y = z
-  &ensp; &bull; if y >= 1 & y &isin; &#8469;<sup>+</sup>, z = &prod;x
+  &ensp; &bull; if y >= 1 & y &isin; &#8469;<sup>+</sup>, z = <span style="fontsize: large">&prod;</span>x
 
 * **2.4 What operations can you do?**<br>
   **Legacy Approach**<br>
