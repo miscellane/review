@@ -12,8 +12,9 @@
   &ensp; &bull; if x &ge; y, (z * y) + r = x & r < z<br>
   &ensp; &bull; if x < y, z = 0
 
-  Exponentiation: x ** y = z
-  &ensp; &bull; if y >= 1 & y &isin; &#8469;<sup>+</sup>, z = x * x * &hellip; * x &VerticalLine;<sub>y</sub>
+  Exponentiation: x ** y = z<br>
+  &ensp; &bull; if y >= 1 & y &isin; &#8469;<sup>+</sup>, z = x * x * &hellip; * x &VerticalLine;<sub><sub>y</sub></sub><br>
+  &ensp; &bull; **Example** &rarr; The area of a circle: pi * (radius ** 2)
 
 * **2.4 What operations can you do?**<br>
   **Legacy Approach**<br>
