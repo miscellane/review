@@ -3,7 +3,8 @@
 
 **Future Learn Comments**
 
-* **1.19 Variable operations**<br><br>
+* **1.19 Variable operations**<br>
+  **Operators**<br>
   Modulus: x % y = z, x &ge; 0<br>
   &ensp; &bull; if x &ge; y, z is the remainder after x is divided by y<br>
   &ensp; &bull; if x < y, z = x
