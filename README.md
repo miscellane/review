@@ -20,7 +20,7 @@ Get ready for a Masters in Data Science and AI
             <li><a href="https://datajusticelab.org/data-harm-record/" target="_blank">Data Harm Records</a></li>
             <li><a href="https://incidentdatabase.ai" target="_blank">The AI Incident Database</a>, https://partnershiponai.org/aiincidentdatabase/</li>
             <li><a href="https://www.propublica.org/series/machine-bias/p2" target="_blank">Machine Bias: Investigating Algorithmic Injustice</a></li>
-            <li><a href="https://www.oii.ox.ac.uk/research/ethics-and-philosophy-of-information/" target="_blank">Ethics and Philosophy of Information</a></li></ul><br></td>
+            <li><a href="https://www.oii.ox.ac.uk/research/ethics-and-philosophy-of-information/" target="_blank">Ethics and Philosophy of Information</a></li></ul></td>
     </tr>
     <tr>
       <td>1.17 Variables</td>
