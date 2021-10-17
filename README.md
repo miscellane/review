@@ -20,7 +20,7 @@ Get ready for a Masters in Data Science and AI
             <li><a href="https://datajusticelab.org/data-harm-record/" target="_blank">Data Harm Records</a></li>
             <li><a href="https://incidentdatabase.ai" target="_blank">The AI Incident Database</a>, https://partnershiponai.org/aiincidentdatabase/</li>
             <li><a href="https://www.propublica.org/series/machine-bias/p2" target="_blank">Machine Bias: Investigating Algorithmic Injustice</a></li>
-            <li><a href="https://www.oii.ox.ac.uk/research/ethics-and-philosophy-of-information/" target="_blank">Ethics and Philosophy of Information</a></li></ul></td>
+            <li><a href="https://www.oii.ox.ac.uk/research/ethics-and-philosophy-of-information/" target="_blank">Ethics and Philosophy of Information</a></li></ul><br></td>
     </tr>
     <tr>
       <td>1.17 Variables</td>
@@ -38,51 +38,51 @@ Get ready for a Masters in Data Science and AI
         &ensp; &bull; if x < y, z = 0<br><br>        
         Exponentiation: x ** y = z<br>
         &ensp; &bull; if y >= 1 & y &isin; &#8469;<sup>+</sup>, z = x * x * &hellip; * x &VerticalLine; <sub><sub>y</sub></sub><br>
-        &ensp; &bull; **Example** &rarr; The area of a circle: pi * (radius ** 2)</td>
+        &ensp; &bull; <b>Example</b> &rarr; The area of a circle: pi * (radius ** 2)<br></td>
     </tr>
     <tr>
       <td>2.4 What operations can you do?</td>
       <td><b>Legacy Approach</b><br><br>
           The approach<br>
           <code style="font-family: Gafata, Consolas; background-color: #f1f1f1; padding: 2px; margin-left: 25px">
-          import numpy as np
+          &ensp; import numpy as np
           </code><br>
           <code style="font-family: Gafata, Consolas; background-color: #f1f1f1; padding: 2px; margin-left: 25px">
-          np.random.randint(low=1, high=7, size=60)
+          &ensp; np.random.randint(low=1, high=7, size=60)
           </code><br><br>
           is now a legacy approach. The latest numpy approach for generating random numbers, including random integers, is<br>
           <code style="font-family: Gafata, Consolas; background-color: #f1f1f1; padding: 2px; margin-left: 25px">
-          import numpy as np
+          &ensp; import numpy as np
           </code><br>
           <code style="font-family: Gafata, Consolas; background-color: #f1f1f1; padding: 2px; margin-left: 25px">
-          SEED = 5
+          &ensp; SEED = 5
           </code><br>
           <code style="font-family: Gafata, Consolas; background-color: #f1f1f1; padding: 2px; margin-left: 25px">
-          rng = np.random.default_rng(seed=SEED)
+          &ensp; rng = np.random.default_rng(seed=SEED)
           </code><br><br>         
           Consequently,<br>
           <code style="font-family: Gafata, Consolas; background-color: #f1f1f1; padding: 2px; margin-left: 25px">
-          rng.integers(low=1, high=7, size=60)
+          &ensp; rng.integers(low=1, high=7, size=60)
           </code><br><br>
-          <a href="https://colab.research.google.com/github/miscellane/review/blob/develop/notebooks/operations.ipynb#scrollTo=fg-lqYrtNLXa">More</a></td>
+          <a href="https://colab.research.google.com/github/miscellane/review/blob/develop/notebooks/operations.ipynb#scrollTo=fg-lqYrtNLXa">More</a><br></td>
     </tr>
     <tr>
       <td>2.5 Practise modifying code</td>
-      <td><a href="https://colab.research.google.com/github/miscellane/review/blob/develop/notebooks/dice.ipynb">The Dice Experiment</a></td>
+      <td><a href="https://colab.research.google.com/github/miscellane/review/blob/develop/notebooks/dice.ipynb">The Dice Experiment</a><br></td>
     </tr>
     <tr>
       <td>2.7 BODMAS</td>
       <td><b>bracket, order, division, multiplication, addition, subtraction</b><br><br>3315 * 2 / 3 / 5 * 7 * 11 / 13 &rarr; 2618.0<br>
-          Of Interest: An online python shell for brief exercises: https://www.python.org/shell/</td>
+          Of Interest: An online python shell for brief exercises: https://www.python.org/shell/<br></td>
     </tr>
     <tr>
       <td>2.11 Practice Creating a Plot</td>
       <td><a href="https://colab.research.google.com/github/miscellane/review/blob/develop/notebooks/graphs.ipynb#scrollTo=Practice">Drawing Graphs</a> <br>
-          Of Interest: <a href="https://matplotlib.org/stable/gallery/showcase/xkcd.html#sphx-glr-gallery-showcase-xkcd-py">Matplotlib xkcd</a></td>
+          Of Interest: <a href="https://matplotlib.org/stable/gallery/showcase/xkcd.html#sphx-glr-gallery-showcase-xkcd-py">Matplotlib xkcd</a><br></td>
     </tr>
     <tr>
       <td>2.21 Sharing your report</td>
-      <td><a href="https://github.com/miscellane/review/tree/develop/docs/titanic">Titanic</a></td>
+      <td><a href="https://github.com/miscellane/review/tree/develop/docs/titanic">Titanic</a><br></td>
     </tr>
 </table>
 
