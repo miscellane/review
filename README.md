@@ -38,7 +38,7 @@ Get ready for a Masters in Data Science and AI
         &ensp; &bull; if x < y, z = 0<br><br>        
         Exponentiation: x ** y = z<br>
         &ensp; &bull; if y >= 1 & y &isin; &#8469;<sup>+</sup>, z = x * x * &hellip; * x &VerticalLine; <sub><sub>y</sub></sub><br>
-        &ensp; &bull; <b>Example</b> &rarr; The area of a circle: pi * (radius ** 2)<br></td>
+        &ensp; &bull; <b>Example</b> &rarr; The area of a circle: pi * (radius ** 2)<br><br></td>
     </tr>
     <tr>
       <td>2.4 What operations can you do?</td>
@@ -64,25 +64,25 @@ Get ready for a Masters in Data Science and AI
           <code style="font-family: Gafata, Consolas; background-color: #f1f1f1; padding: 2px; margin-left: 25px">
           &ensp; rng.integers(low=1, high=7, size=60)
           </code><br><br>
-          <a href="https://colab.research.google.com/github/miscellane/review/blob/develop/notebooks/operations.ipynb#scrollTo=fg-lqYrtNLXa">More</a><br></td>
+          <a href="https://colab.research.google.com/github/miscellane/review/blob/develop/notebooks/operations.ipynb#scrollTo=fg-lqYrtNLXa">More</a><br><br></td>
     </tr>
     <tr>
-      <td>2.5 Practise modifying code</td>
-      <td><a href="https://colab.research.google.com/github/miscellane/review/blob/develop/notebooks/dice.ipynb">The Dice Experiment</a><br></td>
+      <td>2.5 Practise modifying code<br><br></td>
+      <td><a href="https://colab.research.google.com/github/miscellane/review/blob/develop/notebooks/dice.ipynb">The Dice Experiment</a><br><br></td>
     </tr>
     <tr>
       <td>2.7 BODMAS</td>
       <td><b>bracket, order, division, multiplication, addition, subtraction</b><br><br>3315 * 2 / 3 / 5 * 7 * 11 / 13 &rarr; 2618.0<br>
-          Of Interest: An online python shell for brief exercises: https://www.python.org/shell/<br></td>
+          Of Interest: An online python shell for brief exercises: https://www.python.org/shell/<br><br></td>
     </tr>
     <tr>
-      <td>2.11 Practice Creating a Plot</td>
+      <td>2.11 Practice Creating a Plot<br><br></td>
       <td><a href="https://colab.research.google.com/github/miscellane/review/blob/develop/notebooks/graphs.ipynb#scrollTo=Practice">Drawing Graphs</a> <br>
-          Of Interest: <a href="https://matplotlib.org/stable/gallery/showcase/xkcd.html#sphx-glr-gallery-showcase-xkcd-py">Matplotlib xkcd</a><br></td>
+          Of Interest: <a href="https://matplotlib.org/stable/gallery/showcase/xkcd.html#sphx-glr-gallery-showcase-xkcd-py">Matplotlib xkcd</a><br><br></td>
     </tr>
     <tr>
-      <td>2.21 Sharing your report</td>
-      <td><a href="https://github.com/miscellane/review/tree/develop/docs/titanic">Titanic</a><br></td>
+      <td>2.21 Sharing your report<br><br></td>
+      <td><a href="https://github.com/miscellane/review/tree/develop/docs/titanic">Titanic</a><br><br></td>
     </tr>
 </table>
 
