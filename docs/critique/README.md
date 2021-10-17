@@ -60,8 +60,9 @@ In a nutshell, the research paradigm is questionable.
 
 ### Replication
 
-No replications, but a similar european union funded study, that was referred to at the time, led to opposite conclusions.  The study in 
-question is probably the focus of the journal paper -- Higher antioxidant and lower cadmium concentrations and lower incidence of pesticide residues in organically grown crops: a systematic literature review and meta-analyses, https://doi.org/10.1017/S0007114514001366 .
+No replications, but a similar European Union funded study, that was referred to at the time, led to opposite conclusions.  The study in 
+question is probably the focus of the journal paper -- Higher antioxidant and lower cadmium concentrations and lower incidence of pesticide 
+residues in organically grown crops: a systematic literature review and meta-analyses, https://doi.org/10.1017/S0007114514001366 .
 
 <br>
 <br>
