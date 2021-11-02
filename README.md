@@ -1,6 +1,3 @@
-<br>
-
-Rename this repository: review &rarr background
 
 <br>
 
