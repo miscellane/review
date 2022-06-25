@@ -114,43 +114,22 @@ Additionally:
 
 <br>
 
-**Environment**
+The environment is [miscellaneous](https://github.com/briefings/energy#development-notes).  In relation to requirements.txt
 
-```bash
-  conda create --prefix .../review
-  conda activate review
-```
-
-Hence
-
-```bash
-    conda install -c anaconda python==3.7.11    
-    conda install -c anaconda pywin32 jupyterlab nodejs
-    conda install -c anaconda numpy pandas
-    conda install -c anaconda matplotlib seaborn
-    conda install -c anaconda scipy==1.7.1
-    
-    # Update jupyter lab
-    conda install -c anaconda jupyterlab==3.1.7
-    
-    # Testing & Conventions
-    conda install -c anaconda pytest coverage pylint pytest-cov flake8
-
-```
-
-<br>
-
-**Requirements & Conventions**
-
-```bash
+```markdown
     pip freeze -r docs/filter.txt > requirements.txt
 ```
 
-whereby filter.txt does not include `pywin32` & `nodejs`.  And, w.r.t. conventions
+whereby filter.txt does not include `pywin32` & `nodejs`.  In terms of conventions
 
 ```bash
     pylint --generate-rcfile > .pylintrc
 ```
+
+<br>
+<br>
+<br>
+<br>
 
 <br>
 <br>
