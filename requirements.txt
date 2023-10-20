@@ -3,7 +3,7 @@ numpy==1.22.3
 pandas==1.4.2
 matplotlib==3.3.1
 seaborn==0.11.0
-scipy==1.7.3
+scipy
 pytest==7.1.1
 coverage==6.3.2
 pylint==2.12.2
